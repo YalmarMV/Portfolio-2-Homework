@@ -1,0 +1,58 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  line-height: 150%;
+  color: #333; 
+  background-color:#ffe4b5; 
+}
+h1 {
+    font-size: 30px;
+    margin-top: 30px;
+    margin-left: 30px;
+    font-style: bold;
+    color: white;
+}
+.p1 {
+    margin-top: 30px;
+    margin-right: 20px;
+    color: white;
+}
+
+#container {
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 1024px;
+}
+
+#bio,
+#bioimg {
+    float: left;
+    background-color:#00ced1;
+}
+
+#bioimg {
+    margin-top: 10px;
+    margin-bottom: 30px;
+    width: 300px;
+    height: 420px;
+    margin-right: 20px;
+    margin-left: 30px;
+}
+.p2 {
+    margin-top: 05px;
+    margin-bottom: 05px;
+    font-size: 15px;
+    font-style: bolder;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #00ced1;
+    color: white;
+    text-align: center;
+}
